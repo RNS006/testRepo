@@ -1,0 +1,18 @@
+
+
+  simple HTML Text File:
+  ----------------------
+    <html>
+	<head>
+	<title> This is simple text file</title>
+	</head>
+	<body>
+	      <ul>
+		  <li> a </li>
+		  <li> b </li>
+		  <li> c </li>
+		  <li> d </li>
+		  </ul>
+		  
+		  <body>
+		  </html>

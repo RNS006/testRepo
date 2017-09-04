@@ -1,0 +1,16 @@
+
+
+simple GitBash_Commands:
+------------------------
+  ctrl+A,
+  ctrl+U,
+  ctrl+K,
+  ctrl+L,
+  $ ls,
+  $ ls -l,
+  $ ls -l r*, 
+  $ ls -a, 
+  $ ls -la, 
+  $ cd ../.., 
+  $ clear,
+  

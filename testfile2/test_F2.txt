@@ -1,0 +1,21 @@
+
+simple java program:
+--------------------
+   public class Test{
+   
+   public void m1(){
+   
+   System.out.println(" Hi Hello calling for m1-method");
+   
+   }
+   
+   public static void main(String[] args){
+   
+   System.out.println("Hello Java Program");
+   
+          Test t = new Test();
+		       t.m1();
+			   
+			   }
+			   
+			   }
